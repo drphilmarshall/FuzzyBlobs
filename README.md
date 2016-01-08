@@ -6,7 +6,9 @@ Some exploration of Dave Sand's idea to try and find low SB satellite galaxies w
 
 The rough plan is to search the LSST DM stack-reprocessed SDSS Stripe 82 images for low surface brightness, large angular scale features by first masking out the detected objects, rebinning the masked images to some large pixel scale (10 arcsec?), and re-running an object detector on it. The images form part of the Summer 2013 data challenge. 
 
-**IPython Notebook coming soon!**
+Here's our progress so far:
+
+**[IPython Notebook](demo.ipynb)**
 
 ## People, licence etc
 
